@@ -1,5 +1,11 @@
 # @changesets/cli
 
+## 2.27.8
+
+### Patch Changes
+
+- [#1419](https://github.com/changesets/changesets/pull/1419) [`4efc038`](https://github.com/changesets/changesets/commit/4efc0382fcf7ef0ebd0d8e0515b655b6870728f1) Thanks [@bluwy](https://github.com/bluwy)! - Fix logging `--version` flag
+
 ## 2.27.7
 
 ### Patch Changes
